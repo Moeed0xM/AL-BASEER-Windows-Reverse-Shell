@@ -1,0 +1,14 @@
+# AL - BASEER 
+WINDOWS BASED REVERSE SHELL FRAMEWORK
+DEVELOPED BY RAJA MOEED ( root_OxM )
+
+STEPS :
+1 ) START THE EXECUTEABLE FILE BY ./baseer
+2 ) enter your < ip >
+3 ) enter your < port >
+4 ) enter name < of the file exe outout file to get  access  >
+5 ) after that start lister you can use metaspolit or netcat by # nc -lnvp 4444 - <your own given port as above>
+6 ) execute it on victim device
+7 ) access granted
+
+HAPPY HACKING !
