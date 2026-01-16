@@ -2,6 +2,9 @@
 WINDOWS BASED REVERSE SHELL FRAMEWORK
 DEVELOPED BY RAJA MOEED ( root_OxM )
 
+
+chmod +x baseer
+
 STEPS :
 1 ) START THE EXECUTEABLE FILE BY ./baseer
 2 ) enter your < ip >
