@@ -1,5 +1,6 @@
 # AL-BASEER WINDOWS REVERSE SHELL
-is a Windows-based reverse shell framework designed strictly for educational and research purposes.
+is a Windows reverse shell framework designed strictly for educational and research purposes.
+# Only-For Linux
 
 The project aims to help students, security researchers, and penetration testers understand:
 Reverse shell concepts
